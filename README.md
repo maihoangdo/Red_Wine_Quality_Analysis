@@ -4,17 +4,17 @@ Predicting the Quality of Red Wine using Machine Learning Algorithms for Regress
 # Description
 * Source: UCI Machine Learning Repository (https://archive.ics.uci.edu/ml/datasets/wine+quality)
 * Input variables:
-fixed acidity
-volatile acidity
-citric acid
-residual sugar
-chlorides
-free sulfur dioxide
-total sulfur dioxide
-density
-pH
-sulphates
-alcohol
+fixed acidity,
+volatile acidity,
+citric acid,
+residual sugar,
+chlorides,
+free sulfur dioxide,
+total sulfur dioxide,
+density,
+pH,
+sulphates,
+alcohol.
 * Output variable: quality (score between 0 and 10)
 * Dataset characteristics: Multivariate
 * Number of observation: 1599

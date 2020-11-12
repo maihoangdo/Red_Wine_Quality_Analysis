@@ -1,4 +1,4 @@
-# Capstone_project
+# Red Wine Quality Analysis
 Red Wine Quality Dataset
 Predicting the Quality of Red Wine using Machine Learning Algorithms for Regression Analysis, Data Visualizations and Data Analysis.
 # Description
